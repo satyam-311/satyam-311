@@ -2,6 +2,8 @@
 
 **Aspiring Data Science & ML Engineer | Open Source Enthusiast | Problem Solver**
 
+I'm passionate about leveraging data to solve real-world problems, and I love building intelligent solutions with machine learning. With a strong background in programming and analytics, I enjoy collaborating on open-source projects and sharing knowledge with the community. My interests span from statistical modeling and computer vision to deploying scalable ML applications. Beyond coding, I am always keen to learn new technologies and explore innovative approaches to problem solving. Let's connect and create something impactful together!
+
 ---
 
 ## 🚀 Tech Skills & Tools

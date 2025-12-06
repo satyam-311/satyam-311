@@ -44,9 +44,3 @@ I'm passionate about leveraging data to solve real-world problems, and I love bu
 </p>
 
 ---
-
-If you'd like, I can:
-- Commit this update directly to README.md with the commit message: "Update README: add MLOps & tooling badges, remove computer vision mention, add AWS project examples".
-- Or open a PR so you can review the change before merging.
-
-If you prefer to update it yourself, copy the contents above into your README.md in the repo. Let me know which option you want, or if you want any tweaks to wording or badges.
